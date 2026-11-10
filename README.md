@@ -95,7 +95,7 @@ Connect with me !
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td src="icon.png" width="50%" valign="top">
       <img src="assets/project1.png" width="100%" />
       <h3>👥 Jomnoub</h3>
       <p>Jomnoub is a project management tool for organizing group work</p>
