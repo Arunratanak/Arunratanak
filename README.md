@@ -97,9 +97,9 @@ Connect with me !
   <tr>
     <td width="50%" valign="top">
       <img src="assets/project1.png" width="100%" />
-      <h3>[Emoji] [Project One Name]</h3>
-      <p>[What it does and who it's for, in one or two lines.]</p>
-      <p>✨ <b>Highlights:</b> [Feature 1] · [Feature 2] · [Feature 3]</p>
+      <h3>👥 Jomnoub</h3>
+      <p>Jomnoub is a project management tool for organizing group work</p>
+      <p>✨ <b>Highlights:</b> assigning tasks · tracking deadlines · following progress</p>
       <img src="https://img.shields.io/badge/[Tech]-00DC82?style=flat-square" />
       <img src="https://img.shields.io/badge/[Tech]-3FCF8E?style=flat-square" />
       <br /><br />
