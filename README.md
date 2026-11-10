@@ -28,7 +28,7 @@ Connect with me !
 <img src="breakingbad2.gif" width="250" />
 
 
-- 🎨 [I love exploring new concepts and technologies that are evolving around my field.]
+- 🎨 I love exploring new concepts and technologies that are evolving around my field.
 
 
 ## 🧰 Toolbox
