@@ -18,6 +18,8 @@ Connect with me !
 
 *"Be Water My Friend"*
 
+<img src="breakingbad1.gif" width="250" />
+
 
 ![Uploading breakingbad1.gif…]()
 
@@ -25,6 +27,9 @@ Connect with me !
 
 
 ## 🙋 About Me
+
+<img src="breakingbad2.gif" width="250" />
+
 
 - 🎨 [I love exploring new concepts and technologies that are evolving around my field.]
 
