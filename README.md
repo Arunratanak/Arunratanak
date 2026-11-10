@@ -21,9 +21,6 @@ Connect with me !
 <img src="breakingbad1.gif" width="250" />
 
 
-![Uploading breakingbad1.gif…]()
-
-
 
 
 ## 🙋 About Me
