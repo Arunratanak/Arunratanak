@@ -1,30 +1,103 @@
 
-name: Generate snake animation
+---
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # lets you run it manually
-  push:
-    branches: [main]
+## 🧰 Toolbox
 
-permissions:
-  contents: write
+<table>
+  <tr>
+    <td align="center" width="25%"><b>💻 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Front-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🗄️ Back-end</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#161b22,#3b2f63,#5b47a0,#7c5fd6,#A78BFA
+---
 
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+## 🌟 Things I've Built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/project1.png" width="100%" />
+      <h3>🏠 Project One</h3>
+      <p>A short line about what it does and who it's for.</p>
+      <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+      <br /><br />
+      <a href="https://your-site.com">🔗 Live demo</a> · <a href="https://github.com/yourname/project-one">📂 Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/project2.png" width="100%" />
+      <h3>💸 Project Two</h3>
+      <p>A short line about what it does and who it's for.</p>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <br /><br />
+      <a href="https://your-site.com">🔗 Live demo</a> · <a href="https://github.com/yourname/project-two">📂 Code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 2026 Goals
+
+- [x] Finish my first internship
+- [x] Build and deploy a full-stack app
+- [ ] Learn NestJS
+- [ ] Design my own portfolio in Figma
+- [ ] Contribute to an open-source project
+
+---
+
+<details>
+<summary><b>🎮 When I'm not coding... (click me)</b></summary>
+<br />
+
+<img src="assets/fun.gif" align="right" width="180" />
+
+- 🎮 **Playing:** Your favourite games
+- 📺 **Watching:** Your favourite anime
+- 🎧 **Listening to:** Lo-fi while coding
+- 🍜 **Fuel:** Iced coffee and noodles
+
+<br clear="right" />
+</details>
+
+---
+
+<div align="center">
+
+<img src="assets/bye.gif" width="200" />
+
+**Thanks for stopping by! Let's build something cool together 🚀**
+
+</div>
