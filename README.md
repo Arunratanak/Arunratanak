@@ -7,7 +7,7 @@
 
 Connect with me !
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/[your-telegram])
+[![Telegram](https://t.me/Arunratanak)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-linkedin])
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://[your-portfolio])
