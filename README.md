@@ -3,12 +3,9 @@
 
 # សួស្តី! I'm Ratanak ✨
 
-**Sophomore · Computer Science Student · AUPP · Cambodia ![Uploading AsiaCambodiaGIFbyMapadeViajante.gif…]()
-**
+**Sophomore · Computer Science Student · AUPP · Cambodia**
 
-[One or two sentences about who you are. Example: I build clean, friendly web interfaces and I'm slowly turning into a full-stack developer, one project at a time.]
-
-📍 [City, Country] &nbsp;·&nbsp; 🕒 [Timezone, e.g. UTC+7] &nbsp;·&nbsp; 🗣️ [Languages, e.g. Khmer · English]
+Connect with me !
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/[your-telegram])
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[your-email])
@@ -19,68 +16,14 @@
 
 <br clear="right" />
 
-> 💡 *"[Your favourite quote or personal motto]"*
+*"Be Water My Friend"*
 
----
 
-## ⚡ Quick Facts
-
-| | |
-|---|---|
-| 📍 **Based in** | [City, Country] |
-| 🎓 **Studying** | [Major] @ [University] ([Year, e.g. 2nd year]) |
-| 💼 **Currently** | [Role] @ [Company] |
-| 🔭 **Building** | [Current project name and a few words about it] |
-| 🌱 **Learning** | [Thing you're learning now] |
-| 🤝 **Open to** | [Internships / Freelance / Collaborations / Part-time] |
-| 💬 **Ask me about** | [Topic 1], [Topic 2], [Topic 3] |
-| ⚡ **Fun fact** | [Something fun or weird about you] |
-
----
 
 ## 🙋 About Me
 
-- 🎨 [What you love doing, e.g. turning designs into pixel-perfect pages]
-- 🧠 [What you're getting better at, e.g. backend logic and databases]
-- 🌏 [Something that makes you unique, e.g. building Khmer-first interfaces]
-- 🛠️ [How you learn, e.g. by building real projects, not just tutorials]
-- 🎯 [Your long-term goal, e.g. becoming a full-stack developer by 2027]
+- 🎨 [I love exploring new concepts and technologies that are evolving around my field.]
 
----
-
-## 💼 Experience
-
-| Role | Company | Period | What I did |
-|------|---------|--------|------------|
-| [Role] | [Company Name] | [Month Year – Present] | [One line about your work] |
-| [Role] | [Company Name] | [Month Year – Month Year] | [One line about your work] |
-| [Role / Volunteer] | [Organisation] | [Month Year – Month Year] | [One line about your work] |
-
----
-
-## 🎓 Education
-
-| School | Degree / Program | Years |
-|--------|------------------|-------|
-| [University Name] | [Bachelor of ___ in ___] | [20XX – 20XX] |
-| [High School Name] | [High School Diploma] | [20XX – 20XX] |
-
----
-
-## 🧭 My Journey
-
-```
-[20XX] ── 💼 [Role] @ [Company]
-          └─ [One line about what you did]
-[20XX] ── 🏆 [Achievement or award]
-          └─ [One line about it]
-[20XX] ── 💼 [Role] @ [Company]
-          └─ [One line about what you did]
-[20XX] ── 🎓 Started [Major] @ [University]
-          └─ [Your first coding memory]
-```
-
----
 
 ## 🧰 Toolbox
 
@@ -194,37 +137,6 @@
   </tr>
 </table>
 
----
-
-## 🏆 Achievements & Certificates
-
-- 🥇 **[Award / Competition name]** — [Place or result] ([Year])
-- 🏅 **[Hackathon name]** — [What you built / your result] ([Year])
-- 📜 **[Certificate name]** — [Issuer, e.g. freeCodeCamp / Coursera] ([Year])
-- 📜 **[Certificate name]** — [Issuer] ([Year])
-
----
-
-## 📚 Currently Learning
-
-| Topic | Why | Progress |
-|-------|-----|----------|
-| [Topic 1, e.g. NestJS] | [Reason, e.g. to build real APIs] | 🟩🟩🟩⬜⬜ |
-| [Topic 2, e.g. PostgreSQL] | [Reason] | 🟩🟩⬜⬜⬜ |
-| [Topic 3, e.g. Figma] | [Reason] | 🟩🟩🟩🟩⬜ |
-| [Topic 4, e.g. Docker] | [Reason] | 🟩⬜⬜⬜⬜ |
-
----
-
-## 🎯 [Year] Goals
-
-- [x] [Goal you already finished]
-- [x] [Goal you already finished]
-- [ ] [Goal in progress]
-- [ ] [Goal in progress]
-- [ ] [Big dream goal]
-
----
 
 ## 🤝 Let's Work Together
 
@@ -239,32 +151,14 @@ I'm currently open to:
 ---
 
 <details>
-<summary><b>🖥️ My Setup (click me)</b></summary>
-<br />
-
-| | |
-|---|---|
-| 💻 **Laptop** | [Laptop model] |
-| ⌨️ **Keyboard** | [Keyboard] |
-| 🖱️ **Mouse** | [Mouse] |
-| 🎨 **Editor theme** | [Theme name] |
-| 🔤 **Font** | [Coding font] |
-| 🎧 **Coding music** | [Playlist / genre] |
-
-</details>
-
-<details>
 <summary><b>🎮 When I'm not coding... (click me)</b></summary>
 <br />
 
 <img src="assets/fun.gif" align="right" width="180" />
 
-- 🎮 **Playing:** [Game 1], [Game 2]
-- 📺 **Watching:** [Anime / Show 1], [Anime / Show 2]
-- 📖 **Reading:** [Book or manga]
-- 🎧 **Listening to:** [Artist / genre]
-- 🍜 **Favourite food:** [Food]
-- ☕ **Fuel:** [Coffee / tea / energy drink]
+- 📺 **Watching:** classic American Movies
+- 🍜 **Favourite food:** Anything with meat
+- ☕ **Fuel:** Water for dear life
 
 <br clear="right" />
 </details>
@@ -277,6 +171,6 @@ I'm currently open to:
 
 **Thanks for stopping by! [Your closing line, e.g. Let's build something cool together 🚀]**
 
-<sub>Made with 💜 by [Your Name] · Last updated [Month Year]</sub>
+<sub>Made with 💜 by Ratanak · Last updated November 2026 </sub>
 
 </div>
