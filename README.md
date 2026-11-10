@@ -1,9 +1,10 @@
 <!-- ===================== HEADER ===================== -->
 <img src="assets/hello.gif" align="right" width="230" />
 
-# សួស្តី! I'm [Your Name] ✨
+# សួស្តី! I'm Ratanak ✨
 
-**[Your Role] · [Your Major] Student · [Your Country] [Flag Emoji]**
+**Sophomore · Computer Science Student · AUPP · Cambodia ![Uploading AsiaCambodiaGIFbyMapadeViajante.gif…]()
+**
 
 [One or two sentences about who you are. Example: I build clean, friendly web interfaces and I'm slowly turning into a full-stack developer, one project at a time.]
 
