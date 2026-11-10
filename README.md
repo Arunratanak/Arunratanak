@@ -96,46 +96,14 @@ Connect with me !
 <table>
   <tr>
     <td  width="50%" valign="top">
-      <img src="icon.png" width="10%" />
+      <img src="icon.png" width="25%" />
       <h3>👥 Jomnoub</h3>
       <p>Jomnoub is a project management tool for organizing group work</p>
       <p>✨ <b>Highlights:</b> assigning tasks · tracking deadlines · following progress</p>
       <img src="https://img.shields.io/badge/[Tech]-00DC82?style=flat-square" />
       <img src="https://img.shields.io/badge/[Tech]-3FCF8E?style=flat-square" />
       <br /><br />
-      <a href="https://[live-link]">🔗 Live demo</a> · <a href="https://github.com/[username]/[repo]">📂 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/project2.png" width="100%" />
-      <h3>[Emoji] [Project Two Name]</h3>
-      <p>[What it does and who it's for, in one or two lines.]</p>
-      <p>✨ <b>Highlights:</b> [Feature 1] · [Feature 2] · [Feature 3]</p>
-      <img src="https://img.shields.io/badge/[Tech]-61DAFB?style=flat-square" />
-      <img src="https://img.shields.io/badge/[Tech]-06B6D4?style=flat-square" />
-      <br /><br />
-      <a href="https://[live-link]">🔗 Live demo</a> · <a href="https://github.com/[username]/[repo]">📂 Code</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="assets/project3.png" width="100%" />
-      <h3>[Emoji] [Project Three Name]</h3>
-      <p>[What it does and who it's for, in one or two lines.]</p>
-      <p>✨ <b>Highlights:</b> [Feature 1] · [Feature 2] · [Feature 3]</p>
-      <img src="https://img.shields.io/badge/[Tech]-000000?style=flat-square" />
-      <img src="https://img.shields.io/badge/[Tech]-F38020?style=flat-square" />
-      <br /><br />
-      <a href="https://[live-link]">🔗 Live demo</a> · <a href="https://github.com/[username]/[repo]">📂 Code</a>
-    </td>
-    <td width="50%" valign="top">
-      <img src="assets/project4.png" width="100%" />
-      <h3>[Emoji] [Project Four Name]</h3>
-      <p>[What it does and who it's for, in one or two lines.]</p>
-      <p>✨ <b>Highlights:</b> [Feature 1] · [Feature 2] · [Feature 3]</p>
-      <img src="https://img.shields.io/badge/[Tech]-3776AB?style=flat-square" />
-      <img src="https://img.shields.io/badge/[Tech]-4169E1?style=flat-square" />
-      <br /><br />
-      <a href="https://[live-link]">🔗 Live demo</a> · <a href="https://github.com/[username]/[repo]">📂 Code</a>
+      <a href="https://Jomnoub.site">🔗 Live demo</a> · <a href="https://github.com/Arunratanak/Jomnoub">📂 Code</a>
     </td>
   </tr>
 </table>
